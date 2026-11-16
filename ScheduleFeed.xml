@@ -5,7 +5,7 @@
     <link>https://example.com</link>
     <description>Auto-updated RSS feed</description>
     <item>
-      <title>Metric or Item Title</title>
+      <title>Schedule last update:</title>
       <description>Value from API goes here</description>
       <pubDate>Mon, 16 Nov 2026 14:57:00 GMT</pubDate>
       <guid>1</guid>
